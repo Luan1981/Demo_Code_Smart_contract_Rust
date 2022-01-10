@@ -1,1 +1,1 @@
-# Demo_Video_Smart_contract_Rust
+# Demo_Code_Smart_contract_Rust_NEAR
