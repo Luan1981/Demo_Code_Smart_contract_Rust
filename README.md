@@ -1,1 +1,1 @@
-# Demo_Code_Smart_contract_Rust_NEAR
+# Demo code smart contract in Rust 
